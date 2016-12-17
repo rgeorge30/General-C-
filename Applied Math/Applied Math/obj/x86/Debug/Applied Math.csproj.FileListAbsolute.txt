@@ -1,0 +1,5 @@
+C:\iview\code\Applied Math\Applied Math\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\Applied Math\Applied Math\bin\Debug\Applied Math.exe
+C:\iview\code\Applied Math\Applied Math\bin\Debug\Applied Math.pdb
+C:\iview\code\Applied Math\Applied Math\obj\x86\Debug\Applied Math.exe
+C:\iview\code\Applied Math\Applied Math\obj\x86\Debug\Applied Math.pdb

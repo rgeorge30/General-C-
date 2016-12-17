@@ -1,0 +1,9 @@
+C:\iview\code\BitArrayNS\BitArrayNS1\bin\Debug\BitArrayNS1.exe
+C:\iview\code\BitArrayNS\BitArrayNS1\bin\Debug\BitArrayNS1.pdb
+C:\iview\code\BitArrayNS\BitArrayNS1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\BitArrayNS\BitArrayNS1\obj\x86\Debug\BitArrayNS1.exe
+C:\iview\code\BitArrayNS\BitArrayNS1\obj\x86\Debug\BitArrayNS1.pdb
+C:\iview\code\SQL\BitArrayNS\BitArrayNS1\obj\x86\Debug\BitArrayNS1.exe
+C:\iview\code\SQL\BitArrayNS\BitArrayNS1\obj\x86\Debug\BitArrayNS1.pdb
+C:\pc bkup\iview\code\BitArrayNS\BitArrayNS1\obj\x86\Debug\BitArrayNS1.exe
+C:\pc bkup\iview\code\BitArrayNS\BitArrayNS1\obj\x86\Debug\BitArrayNS1.pdb

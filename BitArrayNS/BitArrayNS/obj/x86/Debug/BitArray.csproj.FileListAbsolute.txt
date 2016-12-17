@@ -1,0 +1,2 @@
+C:\iview\code\BitArray\BitArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\BitArrayNS\BitArrayNS\obj\x86\Debug\ResolveAssemblyReference.cache
