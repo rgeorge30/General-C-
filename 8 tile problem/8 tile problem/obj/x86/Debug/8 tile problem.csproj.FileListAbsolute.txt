@@ -1,0 +1,7 @@
+C:\iview\code\8 tile problem\8 tile problem\bin\Debug\8 tile problem.exe
+C:\iview\code\8 tile problem\8 tile problem\bin\Debug\8 tile problem.pdb
+C:\iview\code\8 tile problem\8 tile problem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\8 tile problem\8 tile problem\obj\x86\Debug\8 tile problem.exe
+C:\iview\code\8 tile problem\8 tile problem\obj\x86\Debug\8 tile problem.pdb
+C:\pc bkup\iview\code\8 tile problem\8 tile problem\obj\x86\Debug\8 tile problem.exe
+C:\pc bkup\iview\code\8 tile problem\8 tile problem\obj\x86\Debug\8 tile problem.pdb
