@@ -1,0 +1,7 @@
+C:\iview\code\Tree\IntervalTreeForScheduleConflicts\bin\Debug\IntervalTreeForScheduleConflicts.exe
+C:\iview\code\Tree\IntervalTreeForScheduleConflicts\bin\Debug\IntervalTreeForScheduleConflicts.pdb
+C:\iview\code\Tree\IntervalTreeForScheduleConflicts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\Tree\IntervalTreeForScheduleConflicts\obj\x86\Debug\IntervalTreeForScheduleConflicts.exe
+C:\iview\code\Tree\IntervalTreeForScheduleConflicts\obj\x86\Debug\IntervalTreeForScheduleConflicts.pdb
+C:\pc bkup\iview\code\Tree\IntervalTreeForScheduleConflicts\obj\x86\Debug\IntervalTreeForScheduleConflicts.exe
+C:\pc bkup\iview\code\Tree\IntervalTreeForScheduleConflicts\obj\x86\Debug\IntervalTreeForScheduleConflicts.pdb

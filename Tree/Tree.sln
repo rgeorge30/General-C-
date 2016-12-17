@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{CC31AABD-24C3-4DD9-BABD-CD2A155D7CD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{93472C3D-77D5-4874-9E17-B5F52FBF52D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalTreeForScheduleConflicts", "IntervalTreeForScheduleConflicts\IntervalTreeForScheduleConflicts.csproj", "{5CD4B72A-540B-4543-8B60-E92A8E87267B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC31AABD-24C3-4DD9-BABD-CD2A155D7CD4}.Debug|x86.ActiveCfg = Debug|x86
+		{CC31AABD-24C3-4DD9-BABD-CD2A155D7CD4}.Debug|x86.Build.0 = Debug|x86
+		{CC31AABD-24C3-4DD9-BABD-CD2A155D7CD4}.Release|x86.ActiveCfg = Release|x86
+		{CC31AABD-24C3-4DD9-BABD-CD2A155D7CD4}.Release|x86.Build.0 = Release|x86
+		{93472C3D-77D5-4874-9E17-B5F52FBF52D0}.Debug|x86.ActiveCfg = Debug|x86
+		{93472C3D-77D5-4874-9E17-B5F52FBF52D0}.Debug|x86.Build.0 = Debug|x86
+		{93472C3D-77D5-4874-9E17-B5F52FBF52D0}.Release|x86.ActiveCfg = Release|x86
+		{93472C3D-77D5-4874-9E17-B5F52FBF52D0}.Release|x86.Build.0 = Release|x86
+		{5CD4B72A-540B-4543-8B60-E92A8E87267B}.Debug|x86.ActiveCfg = Debug|x86
+		{5CD4B72A-540B-4543-8B60-E92A8E87267B}.Debug|x86.Build.0 = Debug|x86
+		{5CD4B72A-540B-4543-8B60-E92A8E87267B}.Release|x86.ActiveCfg = Release|x86
+		{5CD4B72A-540B-4543-8B60-E92A8E87267B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
