@@ -1,0 +1,5 @@
+C:\iview\code\mentalExercise\mentalExercise\bin\Debug\mentalExercise.exe
+C:\iview\code\mentalExercise\mentalExercise\bin\Debug\mentalExercise.pdb
+C:\iview\code\mentalExercise\mentalExercise\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\mentalExercise\mentalExercise\obj\x86\Debug\mentalExercise.exe
+C:\iview\code\mentalExercise\mentalExercise\obj\x86\Debug\mentalExercise.pdb

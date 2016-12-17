@@ -1,0 +1,5 @@
+C:\iview\code\mentalExercise\Facebook programming challenge1\bin\Debug\Facebook programming challenge1.exe
+C:\iview\code\mentalExercise\Facebook programming challenge1\bin\Debug\Facebook programming challenge1.pdb
+C:\iview\code\mentalExercise\Facebook programming challenge1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\mentalExercise\Facebook programming challenge1\obj\x86\Debug\Facebook programming challenge1.exe
+C:\iview\code\mentalExercise\Facebook programming challenge1\obj\x86\Debug\Facebook programming challenge1.pdb

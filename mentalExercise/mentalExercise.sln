@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mentalExercise", "mentalExercise\mentalExercise.csproj", "{CB34E58C-CB0D-45DD-B8FE-10AB9B0D80A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "call center", "call center\call center.csproj", "{B4E30083-1034-4311-9FE5-76D3FF858744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook programming challenge1", "Facebook programming challenge1\Facebook programming challenge1.csproj", "{16F945BF-2BE0-46E8-BDAA-656395851E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriePatternMatching", "TriePatternMatching\TriePatternMatching.csproj", "{762A2083-BCF0-4F1C-9921-38D715D949F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Points Right Angle", "Points Right Angle\Points Right Angle.csproj", "{36F9CF7A-4998-47CB-8825-10DAB2F8DEA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "treeApp", "treeApp\treeApp.csproj", "{0FF90CFE-7230-469D-BDD2-BB52C54EB79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpha beta pruning and tictactoe", "Alpha beta pruning and tictactoe\Alpha beta pruning and tictactoe.csproj", "{2FCAFD47-0D6A-4C86-AED8-7C901596456D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB34E58C-CB0D-45DD-B8FE-10AB9B0D80A1}.Debug|x86.ActiveCfg = Debug|x86
+		{CB34E58C-CB0D-45DD-B8FE-10AB9B0D80A1}.Debug|x86.Build.0 = Debug|x86
+		{CB34E58C-CB0D-45DD-B8FE-10AB9B0D80A1}.Release|x86.ActiveCfg = Release|x86
+		{CB34E58C-CB0D-45DD-B8FE-10AB9B0D80A1}.Release|x86.Build.0 = Release|x86
+		{B4E30083-1034-4311-9FE5-76D3FF858744}.Debug|x86.ActiveCfg = Debug|x86
+		{B4E30083-1034-4311-9FE5-76D3FF858744}.Debug|x86.Build.0 = Debug|x86
+		{B4E30083-1034-4311-9FE5-76D3FF858744}.Release|x86.ActiveCfg = Release|x86
+		{B4E30083-1034-4311-9FE5-76D3FF858744}.Release|x86.Build.0 = Release|x86
+		{16F945BF-2BE0-46E8-BDAA-656395851E99}.Debug|x86.ActiveCfg = Debug|x86
+		{16F945BF-2BE0-46E8-BDAA-656395851E99}.Debug|x86.Build.0 = Debug|x86
+		{16F945BF-2BE0-46E8-BDAA-656395851E99}.Release|x86.ActiveCfg = Release|x86
+		{16F945BF-2BE0-46E8-BDAA-656395851E99}.Release|x86.Build.0 = Release|x86
+		{762A2083-BCF0-4F1C-9921-38D715D949F7}.Debug|x86.ActiveCfg = Debug|x86
+		{762A2083-BCF0-4F1C-9921-38D715D949F7}.Debug|x86.Build.0 = Debug|x86
+		{762A2083-BCF0-4F1C-9921-38D715D949F7}.Release|x86.ActiveCfg = Release|x86
+		{762A2083-BCF0-4F1C-9921-38D715D949F7}.Release|x86.Build.0 = Release|x86
+		{36F9CF7A-4998-47CB-8825-10DAB2F8DEA0}.Debug|x86.ActiveCfg = Debug|x86
+		{36F9CF7A-4998-47CB-8825-10DAB2F8DEA0}.Debug|x86.Build.0 = Debug|x86
+		{36F9CF7A-4998-47CB-8825-10DAB2F8DEA0}.Release|x86.ActiveCfg = Release|x86
+		{36F9CF7A-4998-47CB-8825-10DAB2F8DEA0}.Release|x86.Build.0 = Release|x86
+		{0FF90CFE-7230-469D-BDD2-BB52C54EB79F}.Debug|x86.ActiveCfg = Debug|x86
+		{0FF90CFE-7230-469D-BDD2-BB52C54EB79F}.Debug|x86.Build.0 = Debug|x86
+		{0FF90CFE-7230-469D-BDD2-BB52C54EB79F}.Release|x86.ActiveCfg = Release|x86
+		{0FF90CFE-7230-469D-BDD2-BB52C54EB79F}.Release|x86.Build.0 = Release|x86
+		{2FCAFD47-0D6A-4C86-AED8-7C901596456D}.Debug|x86.ActiveCfg = Debug|x86
+		{2FCAFD47-0D6A-4C86-AED8-7C901596456D}.Debug|x86.Build.0 = Debug|x86
+		{2FCAFD47-0D6A-4C86-AED8-7C901596456D}.Release|x86.ActiveCfg = Release|x86
+		{2FCAFD47-0D6A-4C86-AED8-7C901596456D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

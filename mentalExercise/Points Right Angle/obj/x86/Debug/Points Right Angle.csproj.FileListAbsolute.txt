@@ -1,0 +1,5 @@
+C:\iview\code\mentalExercise\Points Right Angle\bin\Debug\Points Right Angle.exe
+C:\iview\code\mentalExercise\Points Right Angle\bin\Debug\Points Right Angle.pdb
+C:\iview\code\mentalExercise\Points Right Angle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\mentalExercise\Points Right Angle\obj\x86\Debug\Points Right Angle.exe
+C:\iview\code\mentalExercise\Points Right Angle\obj\x86\Debug\Points Right Angle.pdb

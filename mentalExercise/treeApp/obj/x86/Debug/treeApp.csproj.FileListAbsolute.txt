@@ -1,0 +1,5 @@
+C:\iview\code\mentalExercise\treeApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\mentalExercise\treeApp\bin\Debug\treeApp.exe
+C:\iview\code\mentalExercise\treeApp\bin\Debug\treeApp.pdb
+C:\iview\code\mentalExercise\treeApp\obj\x86\Debug\treeApp.exe
+C:\iview\code\mentalExercise\treeApp\obj\x86\Debug\treeApp.pdb
