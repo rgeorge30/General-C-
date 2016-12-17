@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{DA1A0D82-EDD4-4BB2-B292-E12D88BA40E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shorest path graph", "shorest path graph\shorest path graph.csproj", "{3538C2B7-204F-4D86-AE7E-772633EC34B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "topological sort", "topological sort\topological sort.csproj", "{2BF6C3EF-4E49-4761-8884-7637905005F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Priority Queue", "Priority Queue\Priority Queue.csproj", "{CDFA5E29-722D-4D17-9808-09096F33A032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1A0D82-EDD4-4BB2-B292-E12D88BA40E5}.Debug|x86.ActiveCfg = Debug|x86
+		{DA1A0D82-EDD4-4BB2-B292-E12D88BA40E5}.Debug|x86.Build.0 = Debug|x86
+		{DA1A0D82-EDD4-4BB2-B292-E12D88BA40E5}.Release|x86.ActiveCfg = Release|x86
+		{DA1A0D82-EDD4-4BB2-B292-E12D88BA40E5}.Release|x86.Build.0 = Release|x86
+		{3538C2B7-204F-4D86-AE7E-772633EC34B2}.Debug|x86.ActiveCfg = Debug|x86
+		{3538C2B7-204F-4D86-AE7E-772633EC34B2}.Debug|x86.Build.0 = Debug|x86
+		{3538C2B7-204F-4D86-AE7E-772633EC34B2}.Release|x86.ActiveCfg = Release|x86
+		{3538C2B7-204F-4D86-AE7E-772633EC34B2}.Release|x86.Build.0 = Release|x86
+		{2BF6C3EF-4E49-4761-8884-7637905005F8}.Debug|x86.ActiveCfg = Debug|x86
+		{2BF6C3EF-4E49-4761-8884-7637905005F8}.Debug|x86.Build.0 = Debug|x86
+		{2BF6C3EF-4E49-4761-8884-7637905005F8}.Release|x86.ActiveCfg = Release|x86
+		{2BF6C3EF-4E49-4761-8884-7637905005F8}.Release|x86.Build.0 = Release|x86
+		{CDFA5E29-722D-4D17-9808-09096F33A032}.Debug|x86.ActiveCfg = Debug|x86
+		{CDFA5E29-722D-4D17-9808-09096F33A032}.Debug|x86.Build.0 = Debug|x86
+		{CDFA5E29-722D-4D17-9808-09096F33A032}.Release|x86.ActiveCfg = Release|x86
+		{CDFA5E29-722D-4D17-9808-09096F33A032}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

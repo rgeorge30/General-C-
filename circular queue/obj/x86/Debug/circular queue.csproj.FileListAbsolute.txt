@@ -1,0 +1,5 @@
+C:\iview\code\circular queue\circular queue\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iview\code\circular queue\circular queue\bin\Debug\circular queue.exe
+C:\iview\code\circular queue\circular queue\bin\Debug\circular queue.pdb
+C:\iview\code\circular queue\circular queue\obj\x86\Debug\circular queue.exe
+C:\iview\code\circular queue\circular queue\obj\x86\Debug\circular queue.pdb
