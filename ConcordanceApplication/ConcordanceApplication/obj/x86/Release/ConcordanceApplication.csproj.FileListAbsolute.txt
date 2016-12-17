@@ -1,0 +1,7 @@
+C:\iview\code\ConcordanceApplication\ConcordanceApplication\bin\Release\ConcordanceApplication.exe
+C:\iview\code\ConcordanceApplication\ConcordanceApplication\bin\Release\ConcordanceApplication.pdb
+C:\iview\code\ConcordanceApplication\ConcordanceApplication\obj\x86\Release\ResolveAssemblyReference.cache
+C:\iview\code\ConcordanceApplication\ConcordanceApplication\obj\x86\Release\ConcordanceApplication.exe
+C:\iview\code\ConcordanceApplication\ConcordanceApplication\obj\x86\Release\ConcordanceApplication.pdb
+C:\pc bkup\iview\code\ConcordanceApplication\ConcordanceApplication\obj\x86\Release\ConcordanceApplication.exe
+C:\pc bkup\iview\code\ConcordanceApplication\ConcordanceApplication\obj\x86\Release\ConcordanceApplication.pdb
